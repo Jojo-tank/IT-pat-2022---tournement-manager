@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/13 15:29:21.000.740,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 15:32:19.000.257,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\frmJoannaItPat2022_u.dfm</Transaction>
+    <Transaction>2022/10/13 15:32:19.000.257,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\frmJoannaItPat2022_u.pas</Transaction>
+    <Transaction>2022/10/13 15:32:32.000.935,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\frmJoannaItPat2022_p.dproj</Transaction>
+    <Transaction>2022/10/13 16:01:50.000.904,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:02:09.000.868,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCreateAccount_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.dfm</Transaction>
+    <Transaction>2022/10/13 16:02:09.000.868,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCreateAccount_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:05:12.000.655,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmWelcome_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmJoannaItPat2022_u.pas</Transaction>
+    <Transaction>2022/10/13 16:05:12.000.655,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmWelcome_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmJoannaItPat2022_u.dfm</Transaction>
+    <Transaction>2022/10/13 16:05:31.000.281,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmJoannaItPat2022_p.dproj=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmJoannaItPat2022_p.dproj</Transaction>
+    <Transaction>2022/10/13 16:07:47.043,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:08:04.583,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCreateAccount_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.dfm</Transaction>
+    <Transaction>2022/10/13 16:08:04.583,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCreateAccount_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:30:40.992,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:31:19.087,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmAdmin_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.dfm</Transaction>
+    <Transaction>2022/10/13 16:31:19.087,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmAdmin_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:56:10.213,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:56:51.008,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\dmTounement_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:56:51.008,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\dmTounement_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.dfm</Transaction>
+    <Transaction>2022/10/13 16:59:38.396,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:59:57.595,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmControlPanel_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 16:59:57.595,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmControlPanel_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.dfm</Transaction>
+    <Transaction>2022/10/13 17:06:28.355,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 17:06:37.883,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmOverall_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.dfm</Transaction>
+    <Transaction>2022/10/13 17:06:37.883,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmOverall_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 17:06:55.179,=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit2.pas</Transaction>
+    <Transaction>2022/10/13 17:07:12.389,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCurrent.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit2.dfm</Transaction>
+    <Transaction>2022/10/13 17:07:12.389,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCurrent.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\Unit2.pas</Transaction>
+    <Transaction>2022/10/13 17:07:39.376,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCurrent_u.pas=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCurrent.pas</Transaction>
+    <Transaction>2022/10/13 17:07:39.376,C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCurrent_u.dfm=C:\Users\joanna.leroux\Documents\Embarcadero\Studio\Projects\IT PAT 2022\frmCurrent.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
