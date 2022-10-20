@@ -2,7 +2,7 @@ object frmAdmin: TfrmAdmin
   Left = 0
   Top = 0
   Caption = 'Admin'
-  ClientHeight = 506
+  ClientHeight = 287
   ClientWidth = 620
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET

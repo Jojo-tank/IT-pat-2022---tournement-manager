@@ -34,6 +34,7 @@ object frmWelcome: TfrmWelcome
     Height = 57
     Caption = 'Get Started!'
     TabOrder = 0
+    OnClick = btnGetStartedClick
   end
   object btnCreateAccount: TButton
     Left = 32
